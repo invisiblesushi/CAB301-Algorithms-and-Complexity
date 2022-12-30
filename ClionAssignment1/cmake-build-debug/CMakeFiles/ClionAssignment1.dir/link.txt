@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ClionAssignment1.dir/main.cpp.o  -o ClionAssignment1 

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491534493 source:/home/danielch/CAB301/workspace/Week2/ex1/assignment1/main.cpp
+	<iostream>
+	<algorithm>
+
